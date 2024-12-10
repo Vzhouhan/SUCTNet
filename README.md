@@ -11,8 +11,9 @@ To solve the low spatial and/or temporal resolution problem which the convention
 # Result presentation
 ![Performance](https://github.com/Vzhouhan/SUCTNet/blob/main/Simu%20Scene5.png) 
 ![Performance](https://github.com/Vzhouhan/SUCTNet/blob/main/Simu%20Scene10.png) 
-![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result3.png) 
-![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result4.png) 
+# Ablation study of the Loss Function of UMFRNet
+![Performance](https://github.com/Vzhouhan/SUCTNet/blob/main/Ablation.png) 
+
 
 # Datasets
 [`dataset download, model train from here`](https://github.com/yhao-z/T2LR-Net)
