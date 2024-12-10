@@ -19,7 +19,7 @@ To solve the low spatial and/or temporal resolution problem which the convention
 [`dataset download, model train from here`](https://github.com/caiyuanhao1998/MST)
 
 # Note
-For any questions, feel free to email me at wangb@nim.ac.cn.  
+For any questions, feel free to email me at zhouh@buaa.edu.cn.  
 If you find our work useful in your research, please cite our paper ^.^
 
 # Acknowledgments
