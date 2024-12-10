@@ -689,7 +689,11 @@ num=10
 sam_val=SAM_Loss()
 predimg=np.empty([num,256,256,28])
 psnr_list,ssim_list,sam_list=[],[],[]
+
 base = sio.loadmat('Test_2_35.88_0.957_7.21.mat')
+#########Contains supervised network results and Truth. The purpose of Truth is to calculate metrics and does not participate in training. 
+#########It can be replaced with your HSI to be refined. Due to file size limitations, the supervised network results in the article were not 
+#########uploaded and can be sent via private message zhouh@buaa.edu.cn seek.
 def init(m):
     if type(m)==nn.Linear:
         nn.init.xavier_uniform(m.weight)
