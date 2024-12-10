@@ -1,4 +1,4 @@
-<img align="right" src="https://ars.els-cdn.com/content/image/X00104825.jpg" width="290" height="350"/>  
+<img align="right" src="https://ars.els-cdn.com/content/image/X01438166.jpg" width="290" height="350"/>  
 
 # Supervised-unsupervised combined transformer for spectral compressive imaging reconstruction  
 
