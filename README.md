@@ -23,5 +23,5 @@ For any questions, feel free to email me at zhouh@buaa.edu.cn.
 If you find our work useful in your research, please cite our paper ^.^
 
 # Acknowledgments
-Our code is heavily borrowed from [MST](https://github.com/caiyuanhao1998/MST)  and [DGSMP](https://github.com/TaoHuang95/DGSMP), thanks for their generous open source.
+Our code is heavily borrowed from [MST](https://github.com/caiyuanhao1998/MST) , [DGSMP](https://github.com/TaoHuang95/DGSMP) and [Restormer](https://github.com/swz30/Restormer) , thanks for their generous open source.
 
