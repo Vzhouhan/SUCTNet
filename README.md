@@ -23,5 +23,5 @@ For any questions, feel free to email me at zhouh@buaa.edu.cn.
 If you find our work useful in your research, please cite our paper ^.^
 
 # Acknowledgments
-[`SLR-Net`](https://github.com/Keziwen/SLR-Net),[`L+S-Net`],[`DUS-Net`](https://github.com/yhao-z/DUS-Net),[`T2LR-Net`](https://github.com/yhao-z/T2LR-Net),
+Our code is heavily borrowed from [MST](https://github.com/caiyuanhao1998/MST)  and [DGSMP](https://github.com/TaoHuang95/DGSMP), thanks for their generous open source.
 
